@@ -3,4 +3,4 @@ Spinoff version of flappy bird, that was inspired by my semester abroad in Italy
 
 Created with Python 3.10.0 
 
-![Alt Text](https://media.giphy.com/media/6MTjcjxySPUwKswJsY/giphy.gif)
+![Alt Text](https://github.com/Gebiqs/Roma-Bird/blob/main/giphy.gif)
