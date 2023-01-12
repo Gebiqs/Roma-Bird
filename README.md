@@ -8,7 +8,7 @@ To play just download the file and press space to fly.
 
 Below you can see a little sniplet of how the game looks 
 
-<img src="https://github.com/Gebiqs/Roma-Bird/blob/main/giphy.gif" width="720" height="528">
+
 ![Alt Text](https://github.com/Gebiqs/Roma-Bird/blob/main/giphy.gif)
 
 Enjoy!
